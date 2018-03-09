@@ -27,3 +27,10 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+#map {
+	height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
